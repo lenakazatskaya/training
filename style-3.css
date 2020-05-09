@@ -89,3 +89,53 @@
     text-align: left;
     color: #212121;
 }
+
+.prise {
+    margin-top: 36px;
+}
+
+.prise-style-1 {
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48px;
+    color: #212121;
+}
+
+.prise-style-2 {
+    font-size: 72px;
+}
+
+.block-related-products {
+    margin-top: 245px;
+}
+
+.explore-all {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 3.6px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.related-product-head :first-child {
+    float: left;
+}
+
+.related-product-head a {
+    float: right;
+}
+
+.block-related-products img {
+    margin-top: 71px;
+    padding-right: 25px;
+    width: 370px;
+}
+
+.block-related-products :last-of-type {
+    padding-right: 0;
+}
+
+.footer{
+    margin-top: 120px;
+}

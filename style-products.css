@@ -1,0 +1,38 @@
+.header_long {
+    height: 360px;
+    background-color: #f5f5f5;
+}
+
+.header__products-page-title {
+    padding-top: 173px;
+    font-size: 62px;
+    font-weight: 100;
+    line-height: 72px;
+    color: #212121;
+}
+
+.product-list {
+    /*Ну и как позиционировать блок, если согласно бэм, позиционировать нельзя*/
+    margin-top: 50px;
+    /*Это для того, чтобы не было отступов между картинками*/
+    font-size: 0;
+}
+
+.product-list__product-img {
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.product-list :nth-child(3n) {
+    padding-right: 0px;
+}
+
+.button-update {
+    text-align: center;
+    margin-top: 71px;
+}
+
+.button-update__link{
+    text-decoration: none;
+    font-size: 42px;
+}

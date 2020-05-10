@@ -6,10 +6,13 @@
 }
 
 .product-selection-menu {
-    background-color: #f4f4f4;
     margin-top: 29px;
     height: 71px;
+}
+
+.product-selection-menu_center-gray {
     text-align: center;
+    background-color: #f4f4f4;
 }
 
 .product-selection-menu>* {
@@ -136,6 +139,6 @@
     padding-right: 0;
 }
 
-.footer{
+.footer-bottom_top-margin {
     margin-top: 120px;
 }

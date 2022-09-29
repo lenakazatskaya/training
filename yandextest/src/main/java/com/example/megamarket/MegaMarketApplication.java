@@ -1,13 +1,13 @@
-package com.example.yandextest;
+package com.example.megamarket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class YandextestApplication {
+public class MegaMarketApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(YandextestApplication.class, args);
+		SpringApplication.run(MegaMarketApplication.class, args);
 	}
 
 }
